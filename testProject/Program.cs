@@ -6,7 +6,7 @@ namespace testProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("trèm cẻm");
+            Console.WriteLine("Trần Văn Hòa");
         }
     }
 }
